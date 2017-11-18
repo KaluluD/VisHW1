@@ -1,0 +1,6 @@
+Model	Release date	Max resolution	Low resolution	Effective pixels
+string	integer	float	float	float
+Agfa ePhoto 1280	1997	1024.0	640.0	0.0
+Canon PowerShot 350	1997	640.0	0.0	0.0
+Agfa ePhoto CL50	1999	1280.0	640.0	1.0
+Canon PowerShot A10	2001	1280.0	1024.0	1.0
